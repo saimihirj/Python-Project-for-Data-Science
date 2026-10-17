@@ -15,7 +15,7 @@ My final project for IBM's *Python Project for Data Science* course. The noteboo
 
 ## Running it
 
-Open [`stock_analysis.ipynb`](stock_analysis.ipynb) in Jupyter. It needs `yfinance`, `pandas`, `requests`, `beautifulsoup4`, `html5lib` and `plotly`. The saved outputs show the results from when the project was completed in 2023; Macrotrends has since changed its pages, so the scraping steps may need adjusting to run today.
+Open [`stock_analysis.ipynb`](stock_analysis.ipynb) in Jupyter. It needs `yfinance`, `pandas`, `requests`, `beautifulsoup4`, `html5lib` and `plotly`. The saved outputs show the results from when the notebook was run (data to mid-2021); Macrotrends has since changed its pages, so the scraping steps may need adjusting to run today.
 
 ## License
 
